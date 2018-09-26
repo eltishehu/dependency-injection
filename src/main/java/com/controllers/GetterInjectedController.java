@@ -1,7 +1,6 @@
-package com.elti.dependencyinjection.controllers;
+package com.controllers;
 
-import com.elti.dependencyinjection.services.GreetingService;
-import com.elti.dependencyinjection.services.GreetingServiceImpl;
+import com.services.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;

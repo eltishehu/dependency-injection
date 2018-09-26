@@ -1,4 +1,4 @@
-package com.elti.dependencyinjection.services;
+package com.services;
 
 public interface GreetingService {
 

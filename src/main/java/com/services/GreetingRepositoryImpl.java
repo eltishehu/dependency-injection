@@ -1,4 +1,4 @@
-package com.elti.dependencyinjection.services;
+package com.services;
 
 import org.springframework.stereotype.Component;
 
