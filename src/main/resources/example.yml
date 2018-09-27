@@ -1,0 +1,36 @@
+# this is a comment
+
+name: Elti
+
+names: # list
+    - John
+    - Paul
+    - Ringo
+
+dollar_sign: "$"
+
+book: # book object
+    author: Joe Buck
+    publisher: Random House
+
+truth: yes # boolean
+
+another_truth: True
+
+more_true: true
+
+false: no # No, false, False
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  asdf asdf asdf
+  ssdf asdf asdf
+  assdd asd asd
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
